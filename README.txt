@@ -1,0 +1,1 @@
+Lagg dina bilder i images-mappen och uppdatera index.html vid behov.
